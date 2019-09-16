@@ -9,7 +9,7 @@ case $1 in
     ;;
 
   ajazz)
-    URL="http://centova1.cheapshoutcast.com:8210/;"
+    URL="http://94.23.201.38:8020/;"
     ;;
 
   relax)
